@@ -1,2 +1,3 @@
 I am a good boy. I like to play.
-New Line.
+My New Line.
+Another New Line.
